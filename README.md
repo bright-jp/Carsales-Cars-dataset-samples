@@ -1,4 +1,4 @@
-# Carsales Cars Listings Dataset Sample
+# Carsales Cars Listings データセットサンプル
 
 <h2>1,000件のレコードからなるサンプルデータセット</h2>
 
